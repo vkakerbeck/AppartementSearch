@@ -1,6 +1,10 @@
 # Appartement Search
 
-This project was a little side idea I had while looking for new appartements. It is very time consuming to flip through pages and pages of appartement offers on different portals so I was wondering if there is a better way to get a quick overview. Currently the data gets crawled from [immobilienscout42](https://www.immobilienscout24.de/) and [wg-gesucht](https://www.wg-gesucht.de/) which are two big German platforms to find an appartement. The first step is to visualize some statistics over the city you are looking at appartements for. 
+This project was a little side idea I had while looking for new appartements. It is very time consuming to flip through pages and pages of appartement offers on different portals so I was wondering if there is a better way to get a quick overview. Currently the data gets crawled from [immobilienscout42](https://www.immobilienscout24.de/) and [wg-gesucht](https://www.wg-gesucht.de/) which are two big German platforms to find an appartement. 
+
+![Data](https://github.com/vkakerbeck/AppartementSearch/blob/master/examples/CrawledData.png)
+
+The first step is to visualize some statistics over the city you are looking at appartements for. 
 
 ![PriceSizeScatter](https://github.com/vkakerbeck/AppartementSearch/blob/master/examples/PriceSizeScatter.png)
 
